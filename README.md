@@ -2,7 +2,7 @@
   <img src="snake.png" />
 </p>
 <p align="center">
-    ## This is a simple snake game in python, made using turtle module
+  <b>This is a simple snake game in python, made using turtle module</b>
 </p>
 
 
