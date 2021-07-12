@@ -8,7 +8,11 @@
  Below there is a gameplay video.
 </p>
 
-https://user-images.githubusercontent.com/52671445/124756952-b4461d80-df4a-11eb-93af-60895a9411bf.mp4
+
+
+https://user-images.githubusercontent.com/52671445/125241204-ca682b00-e308-11eb-971c-5f63ff25206c.mp4
+
+
 
 
 
